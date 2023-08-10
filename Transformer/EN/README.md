@@ -8,7 +8,6 @@ Welcome to the repository for our ongoing implementation of the Transformer mode
 - [Project Status](#project-status)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 
 ## Introduction
 
@@ -36,10 +35,6 @@ Please note that the project is still under development. You can follow these st
 1. Clone this repository.
 2. Explore the codebase to understand the ongoing implementation.
 3. Feel free to experiment, make changes, and contribute.
-
-## Usage
-
-Detailed usage instructions will be provided once the implementation is complete.
 
 
 
