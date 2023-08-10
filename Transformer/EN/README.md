@@ -18,7 +18,10 @@ This repository aims to demystify the Transformer model by providing a step-by-s
 
 ## Project Status
 
-🚧 **Under Development**: This project is currently a work in progress. While the main components of the Transformer are being implemented, there's still much to accomplish, including documentation, testing, and optimization.
+🎉 **Project Completed**: This project is now complete! We've implemented the main components of the Transformer architecture, along with thorough documentation, testing, and optimization.
+
+Feel free to explore the completed implementation and dive into the details of the Transformer model. If you have any questions or suggestions, don't hesitate to reach out.
+
 
 ## Features
 
