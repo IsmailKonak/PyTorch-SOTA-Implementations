@@ -1,5 +1,7 @@
 # Transformer Model Implementasyonu
 
+![Transformer Model](transformer1.png)
+
 PyTorch kullanarak Transformer modelini implement ettiğimiz repoya hoş geldiniz! Bu proje, doğal dil işleme alanında devrim yaratan Transformer mimarisinin kapsamlı, from scratch bir implementasyonunu sağlamayı amaçlamaktadır.
 
 ## İçindekiler
