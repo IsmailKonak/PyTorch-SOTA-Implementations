@@ -1,5 +1,7 @@
 # Transformer Model Implementation
 
+![Transformer Model](transformer1.png)
+
 Welcome to the repository for our ongoing implementation of the Transformer model using PyTorch! This project aims to provide a comprehensive, from-scratch implementation of the Transformer architecture, which has revolutionized the field of natural language processing and machine translation.
 
 ## Table of Contents
