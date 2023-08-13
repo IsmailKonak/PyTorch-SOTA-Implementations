@@ -21,7 +21,7 @@ Here is a list of the models currently available in this repository:
 
 1. **Transformer**: Welcome to the repository for our ongoing imple...
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/EN)
-   - [Turkish notebooks and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/TR)
+   - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/TR)
    
    
 
