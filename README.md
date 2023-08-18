@@ -22,14 +22,14 @@ Here is a list of the models currently available in this repository:
 1. **Transformer**: Welcome to the repository for our ongoing imple...
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/EN)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/TR)
-   
-   
 
 2. **Vision Transformer**: Welcome to the repository for our ongoing imple...
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Vision%20Transformer/EN)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Vision%20Transformer/TR)
-
+     
 3. **U-NET**: (In Progress)
+
+4. **BERT**: (In Progress)
 
 ## Getting Started
 
