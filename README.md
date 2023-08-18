@@ -29,9 +29,9 @@ Here is a list of the models currently available in this repository:
      
 3. **U-NET**: (In Progress)
 
-4. **BERT**: (Next)
-   
-6. **YOLO**: (Next)
+4. **GPT-2**: (Next)
+
+5. **BERT**: (Next)
 
 ## Getting Started
 
