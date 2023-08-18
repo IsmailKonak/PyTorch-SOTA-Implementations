@@ -19,7 +19,7 @@ This repository aims to provide a step-by-step implementation of the Vision Tran
 
 ## Project Status
 
-🎉 **Project Completed**: This project is now complete! We've implemented the main components of the Transformer architecture.
+🎉 **Project Completed**: This project is now complete! We've implemented the main components of the Vision Transformer architecture.
 
 Feel free to explore the completed implementation and dive into the details of the Transformer model. If you have any questions or suggestions, don't hesitate to reach out.
 
