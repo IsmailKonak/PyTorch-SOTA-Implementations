@@ -1,5 +1,8 @@
 # Vision Transformer (ViT) Modeli Implementasyonu
 
+![Vision Transformer Model](visiontransformer1.png)
+
+
 PyTorch kullanarak Vision Transformer (ViT) modelini implement ettiğimiz repoya hoş geldiniz! Bu proje, görüntü sınıflandırma görevlerinde dikkate değer başarı gösteren ViT mimarisinin kapsamlı, sıfırdan bir implementasyonunu sağlamayı amaçlamaktadır.
 
 ## İçindekiler
