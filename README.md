@@ -19,19 +19,21 @@ In this repository, you'll find a collection of Jupyter notebooks that demonstra
 
 Here is a list of the models currently available in this repository:
 
-1. **Transformer**: Welcome to the repository for our ongoing imple...
+1. **Transformer**: (Cpmpleted)
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/EN)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/TR)
 
-2. **Vision Transformer**: Welcome to the repository for our ongoing imple...
+2. **Vision Transformer**: (Completed)
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Vision%20Transformer/EN)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Vision%20Transformer/TR)
      
 3. **U-NET**: (In Progress)
+   - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/U-Net/English)
+   - [Turkish notebook and explanation](#) (Not Available Yet)
 
-4. **GPT-2**: (Next)
+6. **GPT-2**: (Next)
 
-5. **BERT**: (Next)
+7. **BERT**: (Next)
 
 ## Getting Started
 
