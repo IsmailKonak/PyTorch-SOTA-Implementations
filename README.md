@@ -19,7 +19,7 @@ In this repository, you'll find a collection of Jupyter notebooks that demonstra
 
 Here is a list of the models currently available in this repository:
 
-1. **Transformer**: (Cpmpleted)
+1. **Transformer**: (Completed)
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/EN)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/TR)
 
