@@ -29,7 +29,7 @@ Here is a list of the models currently available in this repository:
      
 3. **U-NET**: (In Progress)
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/U-Net/English)
-   - [Turkish notebook and explanation](#) (Not Available Yet)
+   - Turkish notebook and explanation (Not Available Yet)
 
 6. **GPT-2**: (Next)
 
