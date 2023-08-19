@@ -19,9 +19,9 @@ Bu repo, U-Net mimarisinin PyTorch kullanılarak adım adım implementasyonunu s
 
 ## Proje Durumu
 
-🎉 **Proje Tamamlandı**: Bu proje artık tamamlandı! U-Net mimarisini PyTorch kullanarak implement ettik.
+🚧 **Proje Geliştirme Aşamasında**: Bu proje halen geliştirme aşamasındadır. U-Net mimarisinin temel bileşenlerini implemente etmek için aktif olarak çalışıyoruz.
 
-Tamamlanan implementasyonu keşfetmekten ve U-Net mimarisinin ayrıntılarına dalmaktan çekinmeyin. Herhangi bir sorunuz veya öneriniz varsa lütfen bize ulaşınız.
+İlerlememizi takip edebilir ve güncellemeleri bekleyebilirsiniz. Herhangi bir soru, fikir veya öneriniz varsa, bizimle iletişime geçmekten çekinmeyin.
 
 ## Özellikler
 
