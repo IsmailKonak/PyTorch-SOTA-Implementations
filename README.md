@@ -1,8 +1,8 @@
-# PyTorch-SOTA-Implementations
+# PyTorch-SOTA-Implementations ✨🚀
 
 Welcome to the repository where I share notebooks containing implementations of state-of-the-art deep learning models from scratch using PyTorch, along with detailed explanations. This project is designed to provide you with a comprehensive understanding of these advanced models and how they work.
 
-**Note**: Explanations will be provided in **English** and **Turkish**
+**Note**: Explanations are available in both **English** and **Turkish** for your convenience. 🌐🇬🇧🇹🇷
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ In this repository, you'll find a collection of Jupyter notebooks that demonstra
 
 ## Models List
 
-Here is a list of the models currently available in this repository:
+Behold the models that await your exploration:
 
 ### Natural Language Processing
 &nbsp; 1. **Transformer**: (Completed)
@@ -44,7 +44,7 @@ Here is a list of the models currently available in this repository:
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/U-Net/English)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/U-Net/Turkish)
 
-## Getting Started
+## Getting Started 🚀
 
 To get started, follow these steps:
 
@@ -62,16 +62,13 @@ To get started, follow these steps:
 
 Feel free to explore the notebooks, experiment with the code, and learn about the inner workings of these advanced machine learning models.
 
-## Reach Me
+## Reach Me 📬
 
-Mail: i_konak@hotmail.com
+💌 Email: i_konak@hotmail.com
 
-Linkedin: [Ismail Konak](https://www.linkedin.com/in/ismail-konak/)
+🔗 Linkedin: [Ismail Konak](https://www.linkedin.com/in/ismail-konak/)
 
+If you happen upon any enigmas or questions, don't hesitate to summon assistance by opening an issue in the repository.
 
-
-If you find any issues or have questions, you can also open an issue on the repository.
-
-
-## Ending
+## Ending ✨
 Happy learning and exploring the world of state-of-the-art machine learning models!
