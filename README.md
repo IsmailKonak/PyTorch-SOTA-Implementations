@@ -7,7 +7,7 @@ Welcome to the repository where I share notebooks containing implementations of 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Notebook List](#notebook-list)
+- [Models List](#models-list)
 - [Getting Started](#getting-started)
 - [Reach Me](#reach-me)
 
@@ -19,21 +19,30 @@ In this repository, you'll find a collection of Jupyter notebooks that demonstra
 
 Here is a list of the models currently available in this repository:
 
-1. **Transformer**: (Completed)
-   - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/EN)
-   - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/TR)
+### Natural Language Processing
+&nbsp; 1. **Transformer**: (Completed)
+   - &nbsp;&nbsp; [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/EN)
+   - &nbsp;&nbsp; [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Transformer/TR)
 
-2. **Vision Transformer**: (Completed)
+&nbsp; 2. **GPT-1**: (Completed)
+   - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/GPT-1/English)
+   - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/GPT-1/Turkish)
+
+&nbsp; 3. **GPT-2**: (In Progress)
+
+&nbsp; 4. **BERT**: (Next)
+
+
+### Image Classification 
+&nbsp; 1. **Vision Transformer**: (Completed)
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Vision%20Transformer/EN)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/Vision%20Transformer/TR)
-     
-3. **U-NET**: (Completed)
+
+
+### Image Segmentation
+&nbsp; 1. **U-NET**: (Completed)
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/U-Net/English)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/U-Net/Turkish)
-
-6. **GPT-2**: (In Progress)
-
-7. **BERT**: (Next)
 
 ## Getting Started
 
