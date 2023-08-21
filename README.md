@@ -28,10 +28,6 @@ Behold the models that await your exploration:
    - [English notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/GPT-1/English)
    - [Turkish notebook and explanation](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations/tree/main/GPT-1/Turkish)
 
-&nbsp; 3. **GPT-2**: (In Progress)
-
-&nbsp; 4. **BERT**: (Next)
-
 
 ### Image Classification 
 &nbsp; 1. **Vision Transformer**: (Completed)
