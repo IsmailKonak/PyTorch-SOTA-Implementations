@@ -6,4 +6,4 @@ Bu klasör, "PyTorch ile Transformer Mimarisi Implementasyonu" videosunda kullan
 
 - `TransformerLecture.ipynb`: Videoda kullanılan Jupyter notebook dosyası
 - `english_-french.csv`: Videoda kullanılan veri seti
-- `AttentionIsAllYouNeed.pdf`: "Attention Is All You Need" Transformer Mimarisinin geçtiği makale
+- `Attention Is All You Need.pdf`: "Attention Is All You Need" Transformer Mimarisinin geçtiği makale
